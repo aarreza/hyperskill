@@ -15,11 +15,12 @@ class Hangman:
     def guesser(self):
         choice = input("Guess the word: > ")
         r = random.choice(self.word)
-        print(r)
         if choice == r:
             print("You survived!")
+            print(f"Correct, the word {r}!")
         else:
             print("You are hanged!")
+            print(f"Wrong, the word is {r}!")
 
 
 new_game = Hangman()
