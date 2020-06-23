@@ -3,7 +3,7 @@ This GitHub repo hosts a compilation of my completed Python projects.
 
 > The source code on this project runs on:
 
-> [![Python](https://img.shields.io/badge/python-v3.7-blue)](http://badges.mit-license.org)
+> [![Python](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/downloads/source/)
 
 ## Table of Contents
 
