@@ -13,7 +13,7 @@ This GitHub repo is a compilation of my completed Python projects.
 - [Hangman](#hangman)
 - [Credit Calculator](#credit-calculator)
 - [Tic-Tac-Toe](#tic-tac-toe)
-- [Installation](#installation)
+- [Usage](#usage)
 - [License](#license)
 
 ## Coffee Machine
@@ -92,7 +92,7 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 
 ---
 
-## Installation
+## Usage
 Installation should be straight forward as typically how you would run any Python script locally. 
 
 - Clone this repo to your local machine by typing:
@@ -106,7 +106,8 @@ $ git clone https://github.com/aarreza/hyperskill
 $ cd CoffeeMachine
 ```
 
-- Run `chmod a+x [filename.py]` in order to make the script executable
+- Run `chmod a+x filename.py` in order to make the script executable
+> Replace filename.py with name of the script you are modifying permissions for
 
 - Run the script by typing
 ```
