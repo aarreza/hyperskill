@@ -12,7 +12,7 @@ This GitHub repo is a compilation of my completed Python projects.
 - [Chatty Bot](#chatty-bot)
 - [Hangman](#hangman)
 - [Credit Calculator](#credit-calculator)
-- [Tic-tac-toe](#tic-tac-toe)
+- [Tic-Tac-Toe](#tic-tac-toe)
 - [Installation](#installation)
 - [License](#license)
 
