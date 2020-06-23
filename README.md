@@ -13,7 +13,7 @@ This GitHub repo is a compilation of my completed Python projects.
 - [Hangman](#hangman)
 - [Credit Calculator](#credit-calculator)
 - [Tic-Tac-Toe](#tic-tac-toe)
-- [Usage](#usage)
+- [Installation](#installation)
 - [License](#license)
 
 ## Coffee Machine
@@ -92,8 +92,12 @@ Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also
 
 ---
 
-## Usage
-Installation should be straight forward as typically how you would run any Python script locally. 
+## Installation
+> <b>Typical Usage</b>
+> - For testing and educational purposes only
+> - No prior software prerequisites required
+> - Installation of <a href="https://www.python.org/downloads/" target="_blank">Python 3.7</a> is <i>optional</i>
+> - Knowledge of how to run Python scripts locally would be beneficial
 
 - Clone this repo to your local machine by typing:
 ```
