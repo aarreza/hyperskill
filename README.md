@@ -1,5 +1,5 @@
 # Hyperskill Repo 
-This GitHub repo is a compilation of my completed Python projects.
+This GitHub repo hosts a compilation of my completed Python projects.
 
 > The source code on this project runs on:
 
