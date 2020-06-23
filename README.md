@@ -1,13 +1,20 @@
 # Hyperskill Repo 
 This GitHub repo is a compilation of my completed Python projects.
 
+> The source code on this project runs on:
+
+> [![Python](https://img.shields.io/badge/python-v3.7-blue)](http://badges.mit-license.org)
+
 ## Table of Contents
 
-- [Coffee Machine](#coffeemachine)
+- [Coffee Machine](#coffee-machine)
 - [Zookeeper](#zookeeper)
-- [Chatty Bot](#chattybot)
+- [Chatty Bot](#chatty-bot)
 - [Hangman](#hangman)
+- [Credit Calculator](#credit-calculator)
+- [Tic-tac-toe](#tic-tac-toe)
 - [Installation](#installation)
+- [License](#license)
 
 ## Coffee Machine
 
@@ -61,10 +68,55 @@ Good luck with guessing!
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/Hangman/hangman_v7.py" target="_blank">hangman_v7.py</a> (FINAL)
 ---
 
+## Credit Calculator
+
+### Description
+Finance is an important part of the life of any people. Sometimes you think about getting additional income and want to open a deposit account and sometimes you need additional money right now and want to take a credit or mortgage. Anyway, you may want to calculate different financial indicators to make a decision. This credit calculator is an instrument that can help us.
+
+### Versions
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/Credit%20Calculator/creditcalc_v1.py" target="_blank">creditcalc_v1.py</a>
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/Credit%20Calculator/creditcalc_v2.py" target="_blank">creditcalc_v2.py</a>
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/Credit%20Calculator/creditcalc_v2.1.py" target="_blank">creditcalc_v2.1.py</a>
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/Credit%20Calculator/creditcalc_v3.py" target="_blank">creditcalc_v3.py</a> (FINAL)
+
+---
+
+## Tic-Tac-Toe
+
+### Description
+Everybody remembers this paper-and-pencil game from childhood: Tic-Tac-Toe, also known as Noughts and crosses or X's and O's. A single mistake usually costs you the game, but thankfully it is simple enough that most players discover the best strategy quickly. 
+
+### Versions
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/TicTacToe/tictactoe_v1.py" target="_blank">tictactoe_v1.py</a>
+> - In progress (FINAL)
+
+---
+
 ## Installation
+Installation should be straight forward as typically how you would run any Python script locally. 
+
 - Clone this repo to your local machine by typing:
 ```
 $ git clone https://github.com/aarreza/hyperskill
 ```
 
-- `cd` into the directory of the source code 
+- `cd` into the directory of the source code
+> For this purpose, we will be using the <b>CoffeeMachine</b> project
+```
+$ cd CoffeeMachine
+```
+
+- Run `chmod a+x [filename.py]` in order to make the script executable
+
+- Run the script by typing
+```
+./coffee_machine_v4.py
+```
+
+---
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
