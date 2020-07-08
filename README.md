@@ -34,6 +34,9 @@ This coffee machine simulator has the following features:
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v3.py" target="_blank">coffee_machine_v3.py</a>
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v4.py" target="_blank">coffee_machine_v4.py</a> (FINAL)
 
+### Iterations
+The <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v4.py" target="_blank">coffee_machine_v4.py</a> is the final version of the Coffee Machine project, refactored from using basic functions to <a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><i>Object-Oriented Programming</a></i> principles.
+
 ---
 ## Zookeeper
 
