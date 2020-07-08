@@ -32,7 +32,7 @@ This coffee machine simulator has the following features:
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v2.py" target="_blank">coffee_machine_v2.py</a>
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v2.1.py" target="_blank">coffee_machine_v2.1.py</a>
 > - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v3.py" target="_blank">coffee_machine_v3.py</a>
-> - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v3.py" target="_blank">coffee_machine_v4.py</a> (FINAL)
+> - <a href="https://github.com/aarreza/hyperskill/blob/master/CoffeeMachine/coffee_machine_v4.py" target="_blank">coffee_machine_v4.py</a> (FINAL)
 
 ---
 ## Zookeeper
